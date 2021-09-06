@@ -1,4 +1,4 @@
-# flutter_task
+# Flutter_Basic News App
 
 A new Flutter project.
 
